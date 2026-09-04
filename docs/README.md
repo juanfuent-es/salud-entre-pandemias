@@ -18,3 +18,5 @@ Este directorio reúne los videos documentados junto con sus resúmenes y conten
   - Contenido: [Seminario-de-Influenza.md](Seminario-de-Influenza.md)
   - Resumen: [Seminario-de-Influenza-resumen.md](resumenes/Seminario-de-Influenza-resumen.md)
   - Descripción: Análisis de la influenza porcina, humana y aviar desde el enfoque de Una Salud, con énfasis en vigilancia, bioseguridad y prevención.
+
+- [Semental, destete, transporte]()
